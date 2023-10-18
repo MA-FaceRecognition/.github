@@ -20,8 +20,8 @@
 <img src="https://github.com/MA-FaceRecognition/face_recognition_dev/assets/91073404/4c171821-c4ab-4a95-a4b0-5aa9b78416c0" width="700px"/><br>
 
 ## 프로젝트 ppt
-[늘 먹던 걸로](https://drive.google.com/file/d/1gCV9sRQkoepJyumHLZlcbHTmuu3kRoKY/view?usp=sharing)
-[늘 먹던 걸로 기획](https://drive.google.com/file/d/1PUdbF_hTzZeKMEyeVIfvAdBKFQOuLPVY/view?usp=sharing)
+- [늘 먹던 걸로](https://drive.google.com/file/d/1gCV9sRQkoepJyumHLZlcbHTmuu3kRoKY/view?usp=sharing)
+- [늘 먹던 걸로 기획](https://drive.google.com/file/d/1PUdbF_hTzZeKMEyeVIfvAdBKFQOuLPVY/view?usp=sharing)
 
 ## 🧑‍ 팀원 소개
 | [권회은](https://github.com/heweun) | [이남경](https://github.com/nk3466)| [박찬영](https://github.com/Jneck) | [이성빈](https://github.com/naya-beene) |
